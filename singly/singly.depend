@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1576086479 source:f:\my repo\dsa-202\lab2\singly\main.cpp
+	<iostream>
+	"singly.h"
+
+1576086376 f:\my repo\dsa-202\lab2\singly\singly.h
+	<iostream>
+
